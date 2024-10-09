@@ -22,4 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 .env
+=======
+12MegaBlog/.env
+
+>>>>>>> cdc522f (setting up the initial dependencies)
